@@ -1,0 +1,14 @@
+C:\Users\cameron.spaulding\source\repos\c#-TriangleProject\c#-TriangleProject\bin\Debug\net8.0\c#-TriangleProject.exe
+C:\Users\cameron.spaulding\source\repos\c#-TriangleProject\c#-TriangleProject\bin\Debug\net8.0\c#-TriangleProject.deps.json
+C:\Users\cameron.spaulding\source\repos\c#-TriangleProject\c#-TriangleProject\bin\Debug\net8.0\c#-TriangleProject.runtimeconfig.json
+C:\Users\cameron.spaulding\source\repos\c#-TriangleProject\c#-TriangleProject\bin\Debug\net8.0\c#-TriangleProject.dll
+C:\Users\cameron.spaulding\source\repos\c#-TriangleProject\c#-TriangleProject\bin\Debug\net8.0\c#-TriangleProject.pdb
+C:\Users\cameron.spaulding\source\repos\c#-TriangleProject\c#-TriangleProject\obj\Debug\net8.0\c#-TriangleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cameron.spaulding\source\repos\c#-TriangleProject\c#-TriangleProject\obj\Debug\net8.0\c#-TriangleProject.AssemblyInfoInputs.cache
+C:\Users\cameron.spaulding\source\repos\c#-TriangleProject\c#-TriangleProject\obj\Debug\net8.0\c#-TriangleProject.AssemblyInfo.cs
+C:\Users\cameron.spaulding\source\repos\c#-TriangleProject\c#-TriangleProject\obj\Debug\net8.0\c#-TriangleProject.csproj.CoreCompileInputs.cache
+C:\Users\cameron.spaulding\source\repos\c#-TriangleProject\c#-TriangleProject\obj\Debug\net8.0\c#-TriangleProject.dll
+C:\Users\cameron.spaulding\source\repos\c#-TriangleProject\c#-TriangleProject\obj\Debug\net8.0\refint\c#-TriangleProject.dll
+C:\Users\cameron.spaulding\source\repos\c#-TriangleProject\c#-TriangleProject\obj\Debug\net8.0\c#-TriangleProject.pdb
+C:\Users\cameron.spaulding\source\repos\c#-TriangleProject\c#-TriangleProject\obj\Debug\net8.0\c#-TriangleProject.genruntimeconfig.cache
+C:\Users\cameron.spaulding\source\repos\c#-TriangleProject\c#-TriangleProject\obj\Debug\net8.0\ref\c#-TriangleProject.dll

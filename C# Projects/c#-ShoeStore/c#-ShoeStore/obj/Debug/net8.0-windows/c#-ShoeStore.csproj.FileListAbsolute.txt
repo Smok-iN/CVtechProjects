@@ -1,0 +1,17 @@
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\bin\Debug\net8.0-windows\c#-ShoeStore.exe
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\bin\Debug\net8.0-windows\c#-ShoeStore.deps.json
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\bin\Debug\net8.0-windows\c#-ShoeStore.runtimeconfig.json
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\bin\Debug\net8.0-windows\c#-ShoeStore.dll
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\bin\Debug\net8.0-windows\c#-ShoeStore.pdb
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\obj\Debug\net8.0-windows\c__ShoeStore.Form1.resources
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\obj\Debug\net8.0-windows\c__ShoeStore.Form2.resources
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\obj\Debug\net8.0-windows\c#-ShoeStore.csproj.GenerateResource.cache
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\obj\Debug\net8.0-windows\c#-ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\obj\Debug\net8.0-windows\c#-ShoeStore.AssemblyInfoInputs.cache
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\obj\Debug\net8.0-windows\c#-ShoeStore.AssemblyInfo.cs
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\obj\Debug\net8.0-windows\c#-ShoeStore.csproj.CoreCompileInputs.cache
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\obj\Debug\net8.0-windows\c#-ShoeStore.dll
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\obj\Debug\net8.0-windows\refint\c#-ShoeStore.dll
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\obj\Debug\net8.0-windows\c#-ShoeStore.pdb
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\obj\Debug\net8.0-windows\c#-ShoeStore.genruntimeconfig.cache
+C:\Users\cameron.spaulding\source\repos\c#-ShoeStore\c#-ShoeStore\obj\Debug\net8.0-windows\ref\c#-ShoeStore.dll
