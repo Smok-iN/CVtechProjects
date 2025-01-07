@@ -1,0 +1,8 @@
+SELECT *,
+CASE
+	WHEN ReturnDate<GETDATE() THEN 'OVERDUE'
+	ELSE 'DUE'
+END AS "Due"
+FROM Loans;
+
+SELECT * FROM Loans WHERE ReturnDate<GETDATE();

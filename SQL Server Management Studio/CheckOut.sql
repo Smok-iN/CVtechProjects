@@ -1,0 +1,1 @@
+EXEC [dbo].[CheckOut] @LoanID = 16, @BookID = 3, @MemberID = 3, @LoanDate = NULL, @ReturnDate = NULL, @CheckedIn = 'FALSE';
